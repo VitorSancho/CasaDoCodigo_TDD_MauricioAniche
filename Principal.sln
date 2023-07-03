@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap4", "Cap4\Cap4.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cap2", "Cap2\Cap2.csproj", "{CB6CA2AE-965B-4A14-AE2D-DBE32FA40A3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cap5", "Cap5\Cap5.csproj", "{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,14 @@ Global
 		{CB6CA2AE-965B-4A14-AE2D-DBE32FA40A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB6CA2AE-965B-4A14-AE2D-DBE32FA40A3A}.Release|x64.ActiveCfg = Release|Any CPU
 		{CB6CA2AE-965B-4A14-AE2D-DBE32FA40A3A}.Release|x64.Build.0 = Release|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Debug|x64.Build.0 = Debug|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Release|x64.ActiveCfg = Release|Any CPU
+		{20205F5A-7721-41B4-BC4B-ED27DDE68DF4}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
