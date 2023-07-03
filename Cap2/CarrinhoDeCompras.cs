@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cap1
+namespace Cap2
 {
     public class CarrinhoDeCompras
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cap1
+namespace Cap2
 {
     public class MaiorEmenor
     {
@@ -19,7 +19,9 @@ namespace Cap1
                 {
                     Menor = produto;
                 }
-                else if (Maior == null || produto.preco < Maior.preco)
+                //else if (Maior == null || produto.preco < Maior.preco)
+                
+                if (Maior == null || produto.preco > Maior.preco)
                 {
                     Maior = produto;
                 }
