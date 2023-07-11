@@ -22,7 +22,7 @@ namespace Cap7
 
             var salario = calculadoraDeSalario.CalculaSalario(desenvolvedor);
 
-            Assert.AreEqual(4000.0 * 0.85, salario, 0.00001);
+            Assert.AreEqual(4000.0 * 0.8, salario, 0.00001);
         }
 
         [Test]
